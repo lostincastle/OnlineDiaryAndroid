@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myday">myday.png</string>
+    <string name="regcover">regcover.png</string>
+</resources>
